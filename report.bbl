@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{command_line_arguments}
+Command {L}ine {A}rguments in {P}ython.
+\newblock
+  \url{https://www.geeksforgeeks.org/command-line-arguments-in-python/}.
+
+\bibitem{basic_idea}
+Python {P}rogram to {R}ecursively {S}crape all the {URL}s of the {W}ebsite.
+\newblock
+  \url{https://www.geeksforgeeks.org/python-program-to-recursively-scrape-all-the-urls-of-the-website/}.
+
+\bibitem{Lecture_Slides}
+Kameswari Chebrolu.
+\newblock C{S} 104 {C}ourse {S}lides - {P}ython, {M}atplotlib, 2023.
+
+\end{thebibliography}
